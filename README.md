@@ -1,4 +1,4 @@
-# Notebook-for-K-means-Clustering
+# Notebooks-for-Linear-Regression-K-means-Clustering
 Open with google colab or Jupyter Notebook.
 
 This notebook contains a proper code for implementing Linear Regression and K-means clustering algorithms.
